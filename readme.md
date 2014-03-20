@@ -1,4 +1,4 @@
-# Slack Notification of Qiita:Team
+# Qiita:Team Notification for Slack
 
 ![](https://lh4.googleusercontent.com/-g2c6JlzXMWo/Uysf2sgnY1I/AAAAAAAADaI/moVrC-RN2PI/w514-h64-no/2014-03-21_2_03_14.png)
 
